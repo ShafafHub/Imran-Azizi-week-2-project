@@ -18,12 +18,5 @@ DELETE /products/:id
 ## Example
 
 ```bash
-GET	http://localhost:3000/products
-
-POST	http://localhost:3000/products
-
-PUT	http://localhost:3000/products/1
-
-DELETE	http://localhost:3000/products/1
-
+	http://localhost:3000/products
 ```
