@@ -1,6 +1,8 @@
 let products = [
   { id: 1, name: "Phone", price: 500 },
-  { id: 2, name: "Laptop", price: 1200 }
+  { id: 2, name: "Laptop", price: 1200 },
+  { id: 3, name: "Tablet", price: 300 },
+  { id: 4, name: "Watch", price: 200 }
 ];
 
 export function listProducts() {
